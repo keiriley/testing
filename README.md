@@ -1,11 +1,11 @@
-Testing 
+ITM360 Spring 19
 
-<> Kei Riley >>
+Kei Riley
 
-<< Mathematical Programming Major >>
+Mathematical Programming Major
 
-Email: < kei.riley@spartans.ut.edu >
+Email: kei.riley@spartans.ut.edu
 
 
 ## About Me
-<< Just a college student who likes to run around the track and jump over hurdles.  >>
+Just a college student who likes to run around the track and jump over hurdles.
